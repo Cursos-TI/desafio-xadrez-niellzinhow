@@ -4,7 +4,7 @@ int main() {
 
     int i, contador; //i para for e do-while e contador para while
 
-    printf("*** Bem-vindo ao Xadrez - Modo Novato! ***\n");
+    printf("*** Bem-vindo ao Xadrez - Modo Aventureiro! ***\n");
     
     //simulando o movimento da torre utilizando o for
 
@@ -48,7 +48,7 @@ int main() {
 
     }
 
-    printf("\nFim do modo Novato. Boa sorte!\n");
+    printf("\nFim do modo Aventureiro. Boa sorte!\n");
     
     return 0;
 }
